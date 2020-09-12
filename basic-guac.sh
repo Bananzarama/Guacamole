@@ -7,7 +7,7 @@
 ###
 
 VERSION="1.2.0"
-SERVER="http://apache.org/dyn/closer.cgi?action=download&filename=guacamole/${VERSION}"
+SERVER="https://downloads.apache.org/guacamole/${VERSION}"
 TCVERSION="9"
 
 #sudo check
